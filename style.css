@@ -716,6 +716,15 @@ h2 {
     color: #333333!important;
 }
 
+.changement {
+    color: rgba(117,117,117 ,1)!important;
+    text-transform: none;
+    margin-left: 220px;
+    margin-right: 220px;
+    font-size: 19px;
+    font-weight: 700;
+}
+
 .changement1 {
     color: rgba(117,117,117 ,1)!important;
     text-transform: none;
