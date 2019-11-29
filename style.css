@@ -704,9 +704,11 @@ p {
     margin: auto auto auto auto;
 }
 
-h3 {
+.changement2 {
     font-size: 22px;
+    text-transform: none;
     line-height: 1.4em;
+    font-weight: normal;
 }
 
 h2 {
